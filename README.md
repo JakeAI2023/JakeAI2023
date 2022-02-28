@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, math, science and physics.
 - 🌱 I’m currently learning programming and a little bit of math.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gmail haki3006@gamil.com <-- huh funny gmail name.
+- 📫 How to reach me gmail haki3006@gmail.com <-- huh funny gmail name.
 
 <!---
 JakeAI2023/JakeAI2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
